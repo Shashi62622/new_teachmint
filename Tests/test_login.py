@@ -22,5 +22,5 @@ class TestLogin:
         lp.verify_user_login(email)
 
 
-        def time():
+        def abc():
             print("hai")
