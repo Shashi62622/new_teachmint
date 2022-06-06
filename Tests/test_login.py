@@ -20,3 +20,7 @@ class TestLogin:
 
         # Verify User login
         lp.verify_user_login(email)
+
+
+        def abc():
+            print("hai")
